@@ -1,6 +1,6 @@
 package com.example; 
  
-public class StudentResult { 
+public class App { 
  
     public int calculateTotal(int s1, int s2, int s3, int s4, int s5) { 
         return s1 + s2 + s3 + s4 + s5; 
