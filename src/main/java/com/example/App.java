@@ -1,4 +1,4 @@
-ackage com.example; 
+package com.example; 
  
 public class StudentResult { 
  
